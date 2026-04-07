@@ -1,6 +1,6 @@
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=246dff&height=140&text=🧐👽⚛️😽✨👩‍💻&animation=twinkling&fontColor=ffffff&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=3164FF&height=180&text=🧐👽⚛️😽✨👩‍💻&animation=twinkling&fontColor=ffffff&fontSize=40" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🫡🖐️✨⭐💫 </h2>  
@@ -64,7 +64,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
-      <div align= "center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&theme=transparent" alt="GitHub Streak" /></a>
+      <div align= "center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ripetangerine&theme=transparent" alt="GitHub Streak" /></a>
       </div> 
     </div>
     

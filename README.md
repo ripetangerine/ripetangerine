@@ -4,10 +4,11 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #3164FF;"> 🫡🖐️✨⭐💫 </h2>  
+         <img src="https://git-style.vercel.app/api/ripetangerine/animation?theme=flower&quality=low&flower=default&color=%2393c5fd" alt="gitstyle" />
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #3164FF;"> 안녕하세요 </div> 
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #3164FF; color: #3164FF;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #3164FF; color: #3164FF;"> 🛠️ Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center">
       <img src="https://img.shields.io/badge/Typescript-3178C6?style=plastic&logo=Typescript&logoColor=white">
       <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
@@ -67,4 +68,5 @@
       <div align= "center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ripetangerine&theme=transparent" alt="GitHub Streak" /></a>
       </div> 
     </div>
+
     

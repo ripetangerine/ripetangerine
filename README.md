@@ -3,11 +3,11 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=3164FF&height=180&text=🧐👽⚛️😽✨👩‍💻&animation=twinkling&fontColor=ffffff&fontSize=40" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🫡🖐️✨⭐💫 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 안녕하세요 </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #3164FF;"> 🫡🖐️✨⭐💫 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #3164FF;"> 안녕하세요 </div> 
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #3164FF; color: #3164FF;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center">
       <img src="https://img.shields.io/badge/Typescript-3178C6?style=plastic&logo=Typescript&logoColor=white">
       <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
@@ -55,7 +55,7 @@
       </div>
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #3164FF; color: #3164FF;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://velog.io/@ripetangerine/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white&link=https://velog.io/@ripetangerine/posts"> </a>
          <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white&link="> </a>
          <a href=mailto:s2438@e-mirim.hs.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:s2438@e-mirim.hs.kr"> </a>
@@ -63,7 +63,7 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
+    <h2 style="border-bottom: 1px solid #3164FF; color: #3164FF;"> 🏅 Stats </h2> 
       <div align= "center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ripetangerine&theme=transparent" alt="GitHub Streak" /></a>
       </div> 
     </div>

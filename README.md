@@ -1,4 +1,6 @@
-# 👋 안녕하세요, [이름]입니다!
+# 👋 안녕하세요, [곽자경]입니다!
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20World&fontSize=70)
 
 ### 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 

@@ -1,33 +1,69 @@
-# 👋 안녕하세요, [곽자경]입니다!
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20World&fontSize=70)
-
-### 🛠 Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[ripetangerine]&show_icons=true&theme=radical)
-
-### 🐥 Contact
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](인스타링크)
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ripetangerine&label=Profile%20views&color=0e75b6&style=flat" alt="ripetangerine" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ripetangerine" alt="ripetangerine" /></a> </p>
-
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/kwakjakyeong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kwakjakyeong" height="30" width="40" /></a>
-<a href="https://discord.gg/odd_miku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="odd_miku" height="30" width="40" /></a>
-</p> -->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ripetangerine&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ripetangerine&show_icons=true&locale=en&layout=compact" alt="ripetangerine" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ripetangerine&show_icons=true&locale=en" alt="ripetangerine" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ripetangerine&" alt="ripetangerine" /></p>
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=246dff&height=240&text=🧐👽⚛️😽✨👩‍💻&animation=twinkling&fontColor=ffffff&fontSize=40" />
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🫡🖐️✨⭐💫 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 안녕하세요 </div> 
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align= "center">
+      <img src="https://img.shields.io/badge/Typescript-3178C6?style=plastic&logo=Typescript&logoColor=white">
+      <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
+      <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white">
+      <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
+      <br/>
+      <img src="https://img.shields.io/badge/Express-000000?style=plastic&logo=Express&logoColor=white">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white">
+      <img src="https://img.shields.io/badge/NestJs-E0234E?style=plastic&logo=NestJs&logoColor=white">
+      <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=SpringBoot&logoColor=white">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=FastAPI&logoColor=white">
+      <br/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white">
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=Oracle&logoColor=white">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
+      <img src="https://img.shields.io/badge/postgreSQL-4169E1?style=plastic&logo=postgreSQL&logoColor=white">
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=Prisma&logoColor=white">
+      <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=plastic&logo=Sequelize&logoColor=white">
+      <img src="https://img.shields.io/badge/TypeORM-FE0803?style=plastic&logo=TypeORM&logoColor=white">
+      <br/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=Next.js&logoColor=white">
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=Flutter&logoColor=white">
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white">
+      <br/>
+      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=plastic&logo=TailwindCSS&logoColor=white">
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=Bootstrap&logoColor=white">
+      <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=plastic&logo=StyledComponents&logoColor=white">
+      <img src="https://img.shields.io/badge/Prettier-F7B93E?style=plastic&logo=Prettier&logoColor=white">
+      <br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white">
+      <img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=Vercel&logoColor=white">
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=Firebase&logoColor=white">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=Discord&logoColor=white">
+      <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
+      <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=Figma&logoColor=white">
+      <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
+      <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=plastic&logo=Obsidian&logoColor=white">
+      </div>
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center"> <a href=https://velog.io/@ripetangerine/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white&link=https://velog.io/@ripetangerine/posts"> </a>
+         <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white&link="> </a>
+         <a href=mailto:s2438@e-mirim.hs.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:s2438@e-mirim.hs.kr"> </a>
+          </div>  <br> 
+    <div align= "center">  </div> 
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
+      <div align= "center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&theme=transparent" alt="GitHub Streak" /></a>
+      </div> 
+    </div>
+    

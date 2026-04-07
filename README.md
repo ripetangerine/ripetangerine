@@ -1,6 +1,6 @@
 # 👋 안녕하세요, [곽자경]입니다!
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=blue&height=200&section=header&text=Welcome%20to%20My%20World&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20World&fontSize=70)
 
 ### 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -18,12 +18,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ripetangerine" alt="ripetangerine" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/kwakjakyeong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kwakjakyeong" height="30" width="40" /></a>
 <a href="https://discord.gg/odd_miku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="odd_miku" height="30" width="40" /></a>
-</p>
+</p> -->
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ripetangerine&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ripetangerine&show_icons=true&locale=en&layout=compact" alt="ripetangerine" /></p>
 

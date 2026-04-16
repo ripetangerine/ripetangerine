@@ -19,7 +19,7 @@
         <img src="https://img.shields.io/badge/Typescript-3178C6?style=plastic&logo=Typescript&logoColor=white">
         <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
         <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white">
-        <br/>
+        <br/> <br/>
       <img src="https://img.shields.io/badge/Typescript-3178C6?style=plastic&logo=Typescript&logoColor=white">
       <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
       <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white">

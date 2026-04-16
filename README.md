@@ -1,6 +1,6 @@
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=3164FF&height=180&text=🧐👽⚛️😽✨👩‍💻&animation=twinkling&fontColor=ffffff&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=3164FF&height=300&text=🧐👽⚛️😽✨👩‍💻&animation=twinkling&fontColor=ffffff&fontSize=40" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=16&pause=1200&color=3164FF&background=958D1000&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=435&height=40&lines=%EB%B3%84%EC%9D%80+%EB%B0%94%EB%9D%BC%EB%B3%B4%EB%8A%94+%EC%9E%90%EC%97%90%EA%B2%8C+%EB%B9%9B%EC%9D%84+%EC%A4%80%EB%8B%A4" alt="Typing SVG" /> <br>
     </div>
     <div align= "center"> 
@@ -16,6 +16,10 @@
     <div align= "center">
     <h3 style="border-bottom: 1px solid #3164FF; color: #3164FF;"> 🛠️ Stacks </h3> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center">
+        <img src="https://img.shields.io/badge/Typescript-3178C6?style=plastic&logo=Typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
+        <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white">
+        <br/>
       <img src="https://img.shields.io/badge/Typescript-3178C6?style=plastic&logo=Typescript&logoColor=white">
       <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
       <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white">
@@ -67,9 +71,8 @@
     <h3 style="border-bottom: 1px solid #3164FF; color: #3164FF;"> 🏅 자랑?.합니다 </h3> 
       <div align= "center"> 
           <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ripetangerine&theme=transparent" alt="GitHub Streak" /></a>
-           <img src="http://mazassumnida.wtf/api/generate_badge?boj=rbf0"/>
+           <img src="https://media.tenor.com/QEv9h1U8z54AAAAM/reze-csm.gif" alt="rezemylovvvve" />
+           <!--<img src="http://mazassumnida.wtf/api/generate_badge?boj=rbf0"/>-->
       </div> 
-           <a href="https://youtu.be/XRymkHlMB-k?si=r3oANUjOQAJrk_a4"><img src="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fyoutu.be%2FXRymkHlMB-k%3Fsi%3Dr3oANUjOQAJrk_a4&theme=neon&variant=cyan" alt="SoundBadge" /></a>
-        <img src="https://media.tenor.com/QEv9h1U8z54AAAAM/reze-csm.gif" alt="SoundBadge" />
     </div>
     

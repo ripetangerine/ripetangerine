@@ -2,18 +2,13 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=3164FF&height=300&text=🧐👽⚛️😽✨👩‍💻&animation=twinkling&fontColor=ffffff&fontSize=40" />
      <div align= "center"> 
-            <a href="https://mdtopdf.up.railway.app/convertPdf?url=<url>"><img src="https://img.shields.io/badge/Download%20resume%20AS%20pdf-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=gray&labelColor=ec1c24"/></a>
-        <a href=https://velog.io/@ripetangerine/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white&link=https://velog.io/@ripetangerine/posts"> </a>
-         <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white&link="> </a>
-         <a href=mailto:s2438@e-mirim.hs.kr> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:s2438@e-mirim.hs.kr"> </a>
           </div>  <br> <br>
     <div align= "center">
-    <h3 style="border-bottom: 1px solid #3164FF; color: #3164FF;"> 🛠️ Stacks </h3> <br> 
+    <h3 style="border-bottom: 1px solid #3164FF; color: #3164FF;"> ❤️ Luvs 👾 </h3>
     <div style="margin: 0 auto; text-align: center;" align= "center">
         <img src="https://img.shields.io/badge/Typescript-3178C6?style=plastic&logo=Typescript&logoColor=white">
         <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
         <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white">
-        <br/> <br/>
       <img src="https://img.shields.io/badge/Typescript-3178C6?style=plastic&logo=Typescript&logoColor=white">
       <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
       <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white">

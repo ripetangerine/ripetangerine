@@ -1,8 +1,6 @@
 
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=3164FF&height=300&text=🧐👽⚛️😽✨👩‍💻&animation=twinkling&fontColor=ffffff&fontSize=40" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=16&pause=1200&color=3164FF&background=958D1000&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=435&height=40&lines=%EB%B3%84%EC%9D%80+%EB%B0%94%EB%9D%BC%EB%B3%B4%EB%8A%94+%EC%9E%90%EC%97%90%EA%B2%8C+%EB%B9%9B%EC%9D%84+%EC%A4%80%EB%8B%A4" alt="Typing SVG" /> <br>
-    </div>
      <div align= "center"> 
             <a href="https://mdtopdf.up.railway.app/convertPdf?url=<url>"><img src="https://img.shields.io/badge/Download%20resume%20AS%20pdf-EF3939?style=flat&logo=adobeacrobatreader&logoColor=white&color=gray&labelColor=ec1c24"/></a>
         <a href=https://velog.io/@ripetangerine/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white&link=https://velog.io/@ripetangerine/posts"> </a>
